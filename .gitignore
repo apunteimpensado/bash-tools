@@ -1,0 +1,25 @@
+# Bash history
+.bash_history
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+.cache/
